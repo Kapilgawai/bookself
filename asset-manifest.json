@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookself/static/css/main.b41bc8b1.css",
+    "main.js": "/bookself/static/js/main.ba0c5827.js",
+    "static/js/453.55f71d32.chunk.js": "/bookself/static/js/453.55f71d32.chunk.js",
+    "index.html": "/bookself/index.html",
+    "main.b41bc8b1.css.map": "/bookself/static/css/main.b41bc8b1.css.map",
+    "main.ba0c5827.js.map": "/bookself/static/js/main.ba0c5827.js.map",
+    "453.55f71d32.chunk.js.map": "/bookself/static/js/453.55f71d32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b41bc8b1.css",
+    "static/js/main.ba0c5827.js"
+  ]
+}
